@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @lefthandedcoder
-- 👀 I’m interested in machine learning and automated translation. I also want to work on apps and programs that can help people explore and get out into nature.
-- 🌱 I finished my B.S. in comp sci from WGU in Sept 2021 and am brushing up on what I learned and dusting off the ol' resume for job applications
-- 💞️ I’m looking to collaborate on anything and everything so I can build up my skills
-- 📫 How to reach me here or christiancdye@gmail.com
+[![Lefthanded Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=lefthandedcoder)](https://github.com/anuraghazra/github-readme-stats)
+
+- 👋 Hey! I'm Christian, but you might know me as @lefthandedcoder.
+- 🌲 Passionate about bridging technology and nature. Currently exploring the intersection of machine learning, automated translation, and applications aimed at outdoor enthusiasts.
+- 🎓 Proud graduate with a B.S. in Computer Science from WGU (2021). Currently expanding my expertise and refining my skills in preparation for my next adventure in tech.
+- 🚀 Career Goal: To contribute to meaningful projects that empower individuals to discover and appreciate the great outdoors, while also pushing the boundaries of what's possible with technology.
+- 🤝 Always open to collaboration and fresh challenges to help me grow professionally and personally.
+- 📩 Want to chat or work together? Drop me an email at christiancdye@gmail.com or connect with me right here on GitHub!
 
 <!---
 lefthandedcoder/lefthandedcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
