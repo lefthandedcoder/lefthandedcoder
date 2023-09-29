@@ -1,5 +1,3 @@
-[![Lefthanded Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=lefthandedcoder)](https://github.com/anuraghazra/github-readme-stats)
-
 - 👋 Hey! I'm Christian, but you might know me as @lefthandedcoder.
 - 🌲 Passionate about bridging technology and nature. Currently exploring the intersection of machine learning, automated translation, and applications aimed at outdoor enthusiasts.
 - 🎓 Proud graduate with a B.S. in Computer Science from WGU (2021). Currently expanding my expertise and refining my skills in preparation for my next adventure in tech.
